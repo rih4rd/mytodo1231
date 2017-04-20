@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd127813ee8da3ec5ad3d8a52a93dab66fbb575f">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_70ab34d89544def28dc26ef4f76be8531ea74b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_02c4d5fbeb6d8b94f0f6e2ff8695be7822ebcb32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_12783551090b486864969ed4172b7e762fb468fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_3d14ffbe66e148c78c619b082baee1ea0ee8eeb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_7ccf1c1ae01270589742412d34a592068e066085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_69f76a5ab9967cdbdaa6ee41b26c74f823982217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="517f34a98ae6ea62e55876414a25840c3470df73">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6fe6eb2750ae74192e7221c1cf324eae65c8456c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_0e328c2475b26f9d93ea26dd8a22f85a2f8dbb64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_4927eb513b480f41303001192b0195b53a8fdfaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.5_73c1987709ba064336e74947324db6062a8246d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_0a0c529f0c7a8b1385bc180831d9de4d8f790a13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_0e72a9e4edf1136dce6c6861dd80feff1992cddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Rih\Desktop\mytodo123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_c15ef38c323d4c656e5f1e423ecd26c884cd0fec\classes.dex" />
+    </item>
+
+</items>
